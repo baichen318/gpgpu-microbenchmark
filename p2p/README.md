@@ -4,7 +4,7 @@ Benchmark peer-to-peer data transfer using H20 NVLink.
 ## Usage
 ```bash
 $ cd /path/to/gpgpu-microbenchmark/p2p
-$ ./run.sh
+$ ./exp.sh
 ```
 
 ## Conclusion
