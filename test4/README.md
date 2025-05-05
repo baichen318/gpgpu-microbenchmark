@@ -1,9 +1,9 @@
 # Description
-Benchmark peer-to-peer data transfer using H20 NVLink.
+Benchmark SM-NVLink bandwidth.
 
 ## Usage
 ```bash
-$ cd /path/to/gpgpu-microbenchmark/p2p
+$ cd /path/to/gpgpu-microbenchmark/test4
 $ ./exp.sh
 ```
 
