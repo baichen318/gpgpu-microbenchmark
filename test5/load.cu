@@ -17,7 +17,7 @@
 #define STRIDE_START 1L
 #define STRIDE_END 1L
 #define ALLOCATION_START (512L)
-#define ALLOCATION_END (512L * MiB)
+#define ALLOCATION_END (1024L * MiB)
 #define MEM_LD_LATENCY
 // We do not use `INST_LATENCY` for this test.
 // #define INST_LATENCY
@@ -200,17 +200,20 @@ int main(int argc, char *argv[]) {
 
       #if defined(MEM_LD_LATENCY)
         double loads = (double)NOUTER_ITERS * ncache_lines * NINNER_ITERS;
-        double cycles_load = ((double)h_cycles / loads);
+        double transfer_data_size = (loads * (double)CACHE_LINE_LENGTH / (double)GiB); // GB
+        double cycles_per_load = ((double)h_cycles / loads);
         get_gpu_clock_speed(0, &sm_clock, &mem_clock);
-        double cycles_s = sm_clock * 1.0E-3; // GHz
-        double time_per_load = ((double)h_cycles * (1 / cycles_s)) / loads;
+        double freq = sm_clock * 1.0E-3; // GHz
+        double total_time = ((double)h_cycles * (1 / freq));
+        double time_per_load = total_time / loads;
+        double bandwidth = transfer_data_size / (total_time * 1.0E-9); // GB/s
         printf(
-          "Array size: %.4f MB, stride: %d, #cache lines: %d, elapsed clock cycles: %lu, " \
-          "#loads: %.0f, cycles per load: %.4f, time per load: %.8f ns\n", 
-          (double)as / MiB, st, ncache_lines, h_cycles,
-          loads, cycles_load, time_per_load
+          "Array size: %.4f MB, stride: %d, #cache lines: %d, elapsed clock cycles: %lu, total time: %.4f s, " \
+          "#loads: %.0f, cycles per load: %.4f, time per load: %.4f ns, load bandwidth: %.4f GB/s, SM frequence: %.4f GHz\n",
+          (double)as / MiB, st, ncache_lines, h_cycles, total_time * 1.0E-9,
+          loads, cycles_per_load, time_per_load, bandwidth, freq
         );
-        fprintf(fp, "%d,%lu,%lu,%.4f,%.4f\n", st, as, h_cycles, cycles_load, time_per_load);
+        fprintf(fp, "%d,%lu,%lu,%.4f,%.4f,%.4f\n", st, as, h_cycles, total_time, cycles_per_load, time_per_load);
       #elif defined(INST_LATENCY)
         size_t ops = NOUTER_ITERS * NINNER_ITERS;
         printf("Ops: %lu\n", ops);
