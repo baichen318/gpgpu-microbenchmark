@@ -12,3 +12,5 @@ build*
 stride*
 sm2sm_*
 p2p-nvlink
+load
+lat.csv
