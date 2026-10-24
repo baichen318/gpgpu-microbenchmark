@@ -1108,6 +1108,7 @@ throttling.
 ### 7.1 Build
 
 ```bash
+# From the repository root:
 cd rtx-pro-6000-blackwell
 make -j
 ```
