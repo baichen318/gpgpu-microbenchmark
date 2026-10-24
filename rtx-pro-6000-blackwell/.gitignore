@@ -1,0 +1,23 @@
+# Build output
+bin/
+build/
+*.o
+*.obj
+*.ptx
+*.cubin
+*.fatbin
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Nsight Compute artifacts
+results/ncu/
+*.ncu-rep
+
+# Editor / temporary files
+*.swp
+*~

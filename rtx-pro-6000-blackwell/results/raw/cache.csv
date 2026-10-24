@@ -1,0 +1,11 @@
+test,config,size_bytes,iterations,time_ms,bandwidth_gbps,cycles_per_load
+l1_read,per_sm_64KB,65536,5000,1.546464,39835.289628,0
+l2_read,per_sm_16MB,16777216,10,3.959136,7966.679095,0
+shared_read,stride_1,65536,5000,2.372480,25966.011174,0
+shared_bank_conflict,stride_1,65536,2000,1.164288,21164.467099,0
+shared_bank_conflict,stride_2,65536,2000,1.192064,20671.318848,0
+shared_bank_conflict,stride_4,65536,2000,1.692672,14557.773622,0
+shared_bank_conflict,stride_8,65536,2000,3.375936,7299.171481,0
+shared_bank_conflict,stride_16,65536,2000,6.746880,3652.286064,0
+shared_bank_conflict,stride_32,65536,2000,13.511808,1823.703777,0
+shared_latency,pointer_chase,65536,1000000,14.026656,0,34.000104

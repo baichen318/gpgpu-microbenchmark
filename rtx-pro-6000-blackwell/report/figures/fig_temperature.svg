@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">Sustained FP32 temperature</text>
+<line x1="100" y1="427.78" x2="920" y2="427.78" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="432.78" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">56</text>
+<line x1="100" y1="356.67" x2="920" y2="356.67" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="361.67" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">58</text>
+<line x1="100" y1="285.56" x2="920" y2="285.56" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="290.56" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">60</text>
+<line x1="100" y1="214.44" x2="920" y2="214.44" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="219.44" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">62</text>
+<line x1="100" y1="143.33" x2="920" y2="143.33" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="148.33" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">64</text>
+<line x1="100" y1="72.22" x2="920" y2="72.22" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="77.22" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">66</text>
+<line x1="191.10" y1="58" x2="191.10" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="191.10" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">2</text>
+<line x1="304.97" y1="58" x2="304.97" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="304.97" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">5</text>
+<line x1="418.84" y1="58" x2="418.84" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="418.84" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">8</text>
+<line x1="532.71" y1="58" x2="532.71" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="532.71" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">10</text>
+<line x1="646.58" y1="58" x2="646.58" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="646.58" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">12</text>
+<line x1="760.45" y1="58" x2="760.45" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="760.45" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">15</text>
+<line x1="874.32" y1="58" x2="874.32" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="874.32" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">18</text>
+<line x1="100" y1="58" x2="100" y2="442" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="442" x2="920" y2="442" stroke="#333" stroke-width="1.5"/>
+<text x="510.0" y="498" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222">Time (s)</text>
+<text x="24" y="250.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 250.0)">Temperature (C)</text>
+<path d="M100.00,285.56 L122.77,250.00 L145.55,356.67 L168.32,356.67 L191.14,356.67 L213.92,321.11 L236.69,321.11 L259.46,321.11 L282.24,321.11 L305.01,178.89 L327.79,178.89 L350.56,178.89 L373.33,285.56 L396.11,285.56 L418.88,250.00 L441.66,250.00 L464.43,250.00 L487.20,250.00 L509.98,250.00 L532.80,250.00 L555.57,250.00 L578.34,107.78 L601.12,72.22 L623.89,107.78 L646.67,214.44 L669.44,214.44 L692.21,214.44 L714.99,178.89 L737.76,178.89 L760.54,178.89 L783.31,178.89 L806.08,178.89 L828.86,143.33 L851.63,214.44 L874.45,214.44 L897.23,214.44 L920.00,427.78" fill="none" stroke="#ff7f0e" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="100.00" cy="285.56" r="3.5" fill="#ff7f0e"/>
+<circle cx="122.77" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="145.55" cy="356.67" r="3.5" fill="#ff7f0e"/>
+<circle cx="168.32" cy="356.67" r="3.5" fill="#ff7f0e"/>
+<circle cx="191.14" cy="356.67" r="3.5" fill="#ff7f0e"/>
+<circle cx="213.92" cy="321.11" r="3.5" fill="#ff7f0e"/>
+<circle cx="236.69" cy="321.11" r="3.5" fill="#ff7f0e"/>
+<circle cx="259.46" cy="321.11" r="3.5" fill="#ff7f0e"/>
+<circle cx="282.24" cy="321.11" r="3.5" fill="#ff7f0e"/>
+<circle cx="305.01" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="327.79" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="350.56" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="373.33" cy="285.56" r="3.5" fill="#ff7f0e"/>
+<circle cx="396.11" cy="285.56" r="3.5" fill="#ff7f0e"/>
+<circle cx="418.88" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="441.66" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="464.43" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="487.20" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="509.98" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="532.80" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="555.57" cy="250.00" r="3.5" fill="#ff7f0e"/>
+<circle cx="578.34" cy="107.78" r="3.5" fill="#ff7f0e"/>
+<circle cx="601.12" cy="72.22" r="3.5" fill="#ff7f0e"/>
+<circle cx="623.89" cy="107.78" r="3.5" fill="#ff7f0e"/>
+<circle cx="646.67" cy="214.44" r="3.5" fill="#ff7f0e"/>
+<circle cx="669.44" cy="214.44" r="3.5" fill="#ff7f0e"/>
+<circle cx="692.21" cy="214.44" r="3.5" fill="#ff7f0e"/>
+<circle cx="714.99" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="737.76" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="760.54" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="783.31" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="806.08" cy="178.89" r="3.5" fill="#ff7f0e"/>
+<circle cx="828.86" cy="143.33" r="3.5" fill="#ff7f0e"/>
+<circle cx="851.63" cy="214.44" r="3.5" fill="#ff7f0e"/>
+<circle cx="874.45" cy="214.44" r="3.5" fill="#ff7f0e"/>
+<circle cx="897.23" cy="214.44" r="3.5" fill="#ff7f0e"/>
+<circle cx="920.00" cy="427.78" r="3.5" fill="#ff7f0e"/>
+<line x1="690" y1="74" x2="718" y2="74" stroke="#ff7f0e" stroke-width="3"/>
+<text x="726" y="79" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">GPU temp</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">Per-SM NoC / L2 bandwidth</text>
+<line x1="100" y1="351.41" x2="920" y2="351.41" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="356.41" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">50</text>
+<line x1="100" y1="249.90" x2="920" y2="249.90" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="254.90" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">60</text>
+<line x1="100" y1="148.38" x2="920" y2="148.38" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="153.38" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">70</text>
+<line x1="205.24" y1="58" x2="205.24" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="205.24" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">25</text>
+<line x1="314.87" y1="58" x2="314.87" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="314.87" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">50</text>
+<line x1="424.49" y1="58" x2="424.49" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="424.49" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">75</text>
+<line x1="534.12" y1="58" x2="534.12" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="534.12" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">100</text>
+<line x1="643.74" y1="58" x2="643.74" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="643.74" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">125</text>
+<line x1="753.37" y1="58" x2="753.37" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="753.37" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">150</text>
+<line x1="862.99" y1="58" x2="862.99" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="862.99" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">175</text>
+<line x1="100" y1="58" x2="100" y2="442" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="442" x2="920" y2="442" stroke="#333" stroke-width="1.5"/>
+<text x="510.0" y="498" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222">Active SMs</text>
+<text x="24" y="250.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 250.0)">GB/s per SM</text>
+<path d="M100.00,72.57 L104.39,72.22 L113.16,72.61 L130.70,73.68 L165.78,74.04 L235.94,78.52 L376.26,80.82 L507.81,102.07 L656.90,288.98 L920.00,427.78" fill="none" stroke="#2ca02c" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="100.00" cy="72.57" r="3.5" fill="#2ca02c"/>
+<circle cx="104.39" cy="72.22" r="3.5" fill="#2ca02c"/>
+<circle cx="113.16" cy="72.61" r="3.5" fill="#2ca02c"/>
+<circle cx="130.70" cy="73.68" r="3.5" fill="#2ca02c"/>
+<circle cx="165.78" cy="74.04" r="3.5" fill="#2ca02c"/>
+<circle cx="235.94" cy="78.52" r="3.5" fill="#2ca02c"/>
+<circle cx="376.26" cy="80.82" r="3.5" fill="#2ca02c"/>
+<circle cx="507.81" cy="102.07" r="3.5" fill="#2ca02c"/>
+<circle cx="656.90" cy="288.98" r="3.5" fill="#2ca02c"/>
+<circle cx="920.00" cy="427.78" r="3.5" fill="#2ca02c"/>
+<line x1="690" y1="74" x2="718" y2="74" stroke="#2ca02c" stroke-width="3"/>
+<text x="726" y="79" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">per SM</text>
+</svg>

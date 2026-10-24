@@ -1,0 +1,12 @@
+test,threads,warps,cycles,warp_instr_per_cycle
+issue,32,1,1750175.000,0.457
+issue,64,2,1750168.000,0.914
+issue,128,4,1750178.000,1.828
+issue,256,8,2600194.000,2.461
+issue,512,16,5200212.000,2.461
+issue,1024,32,10400264.000,2.461
+occupancy,0,0,0,100.000
+occupancy,16384,0,0,83.333
+occupancy,32768,0,0,50.000
+occupancy,65536,0,0,16.667
+occupancy,98304,0,0,16.667

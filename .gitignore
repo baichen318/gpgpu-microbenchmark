@@ -7,7 +7,7 @@
 
 # Customization.
 p2p
-report*
+/report*
 build*
 stride*
 sm2sm_*

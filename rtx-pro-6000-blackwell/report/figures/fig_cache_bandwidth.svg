@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">Cache and shared-memory read bandwidth</text>
+<line x1="100" y1="424.00" x2="920" y2="424.00" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="429.00" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">0.0k</text>
+<line x1="100" y1="341.97" x2="920" y2="341.97" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="346.97" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">10.0k</text>
+<line x1="100" y1="259.93" x2="920" y2="259.93" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="264.93" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">20.0k</text>
+<line x1="100" y1="177.90" x2="920" y2="177.90" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="182.90" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">30.0k</text>
+<line x1="100" y1="95.86" x2="920" y2="95.86" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="100.86" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">40.0k</text>
+<rect x="151.93" y="97.21" width="169.47" height="326.79" fill="#1f77b4" fill-opacity="0.88"/>
+<text x="236.67" y="89.21" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">39.8k</text>
+<text x="236.67" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">L1</text>
+<rect x="425.27" y="358.65" width="169.47" height="65.35" fill="#d62728" fill-opacity="0.88"/>
+<text x="510.00" y="350.65" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">8.0k</text>
+<text x="510.00" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">L2</text>
+<rect x="698.60" y="210.99" width="169.47" height="213.01" fill="#2ca02c" fill-opacity="0.88"/>
+<text x="783.33" y="202.99" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">26.0k</text>
+<text x="783.33" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">Shared</text>
+<line x1="100" y1="58" x2="100" y2="424" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="424" x2="920" y2="424" stroke="#333" stroke-width="1.5"/>
+<text x="24" y="241.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 241.0)">Aggregate GB/s</text>
+</svg>

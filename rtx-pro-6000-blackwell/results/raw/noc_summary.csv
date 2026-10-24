@@ -1,0 +1,9 @@
+metric,value,unit
+active_blocks,188,blocks
+pairs,35156,pairs
+median_roundtrip_ns,1254.400,ns
+median_oneway_ns,627.200,ns
+min_roundtrip_ns,966.400,ns
+max_roundtrip_ns,1433.600,ns
+mean_roundtrip_ns,1251.193,ns
+stddev_roundtrip_ns,47.131,ns

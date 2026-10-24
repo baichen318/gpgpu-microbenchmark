@@ -1,0 +1,8 @@
+metric,value,unit,note
+fp32_fma,100.531960,TFLOPS,blocks=564;threads=512;iters=20000
+fp64_fma,1.528747,TFLOPS,blocks=564;threads=512;iters=500
+int32_imad,28207.161331,GIOPS,blocks=564;threads=512;iters=20000
+sfu_ex2,7263.507387,GIOPS,blocks=564;threads=512;iters=5000
+fp16_hfma2,112.553790,TFLOPS,blocks=564;threads=512;iters=10000
+fp32_fma_dependent_latency,4.437517,cycles/FMA,iters=10000000
+fp32_fma_independent_throughput,1.140633,cycles/FMA,iters=5000000

@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">PCIe pinned-memory bandwidth</text>
+<line x1="100" y1="432.07" x2="920" y2="432.07" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="437.07" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">0</text>
+<line x1="100" y1="369.32" x2="920" y2="369.32" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="374.32" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">5</text>
+<line x1="100" y1="306.56" x2="920" y2="306.56" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="311.56" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">10</text>
+<line x1="100" y1="243.81" x2="920" y2="243.81" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="248.81" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">15</text>
+<line x1="100" y1="181.05" x2="920" y2="181.05" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="186.05" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">20</text>
+<line x1="100" y1="118.30" x2="920" y2="118.30" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="123.30" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">25</text>
+<line x1="100.00" y1="58" x2="100.00" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="100.00" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1.0 KiB</text>
+<line x1="346.00" y1="58" x2="346.00" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="346.00" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">64 KiB</text>
+<line x1="510.00" y1="58" x2="510.00" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="510.00" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1.0 MiB</text>
+<line x1="674.00" y1="58" x2="674.00" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="674.00" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">16 MiB</text>
+<line x1="920.00" y1="58" x2="920.00" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="920.00" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1024 MiB</text>
+<line x1="100" y1="58" x2="100" y2="442" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="442" x2="920" y2="442" stroke="#333" stroke-width="1.5"/>
+<text x="510.0" y="498" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222">Transfer size</text>
+<text x="24" y="250.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 250.0)">GB/s</text>
+<path d="M100.00,427.78 L182.00,417.73 L264.00,397.89 L346.00,318.08 L428.00,172.10 L510.00,113.01 L592.00,89.49 L674.00,81.22 L756.00,79.78 L838.00,79.33 L879.00,79.50 L920.00,79.31" fill="none" stroke="#1f77b4" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="100.00" cy="427.78" r="3.5" fill="#1f77b4"/>
+<circle cx="182.00" cy="417.73" r="3.5" fill="#1f77b4"/>
+<circle cx="264.00" cy="397.89" r="3.5" fill="#1f77b4"/>
+<circle cx="346.00" cy="318.08" r="3.5" fill="#1f77b4"/>
+<circle cx="428.00" cy="172.10" r="3.5" fill="#1f77b4"/>
+<circle cx="510.00" cy="113.01" r="3.5" fill="#1f77b4"/>
+<circle cx="592.00" cy="89.49" r="3.5" fill="#1f77b4"/>
+<circle cx="674.00" cy="81.22" r="3.5" fill="#1f77b4"/>
+<circle cx="756.00" cy="79.78" r="3.5" fill="#1f77b4"/>
+<circle cx="838.00" cy="79.33" r="3.5" fill="#1f77b4"/>
+<circle cx="879.00" cy="79.50" r="3.5" fill="#1f77b4"/>
+<circle cx="920.00" cy="79.31" r="3.5" fill="#1f77b4"/>
+<path d="M100.00,427.51 L182.00,418.69 L264.00,381.87 L346.00,278.15 L428.00,169.78 L510.00,148.04 L592.00,81.12 L674.00,75.56 L756.00,72.76 L838.00,72.46 L879.00,72.24 L920.00,72.22" fill="none" stroke="#d62728" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="100.00" cy="427.51" r="3.5" fill="#d62728"/>
+<circle cx="182.00" cy="418.69" r="3.5" fill="#d62728"/>
+<circle cx="264.00" cy="381.87" r="3.5" fill="#d62728"/>
+<circle cx="346.00" cy="278.15" r="3.5" fill="#d62728"/>
+<circle cx="428.00" cy="169.78" r="3.5" fill="#d62728"/>
+<circle cx="510.00" cy="148.04" r="3.5" fill="#d62728"/>
+<circle cx="592.00" cy="81.12" r="3.5" fill="#d62728"/>
+<circle cx="674.00" cy="75.56" r="3.5" fill="#d62728"/>
+<circle cx="756.00" cy="72.76" r="3.5" fill="#d62728"/>
+<circle cx="838.00" cy="72.46" r="3.5" fill="#d62728"/>
+<circle cx="879.00" cy="72.24" r="3.5" fill="#d62728"/>
+<circle cx="920.00" cy="72.22" r="3.5" fill="#d62728"/>
+<line x1="690" y1="74" x2="718" y2="74" stroke="#1f77b4" stroke-width="3"/>
+<text x="726" y="79" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">H2D</text>
+<line x1="690" y1="96" x2="718" y2="96" stroke="#d62728" stroke-width="3"/>
+<text x="726" y="101" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">D2H</text>
+</svg>

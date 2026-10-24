@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">NoC ping-pong round-trip latency</text>
+<line x1="100" y1="403.54" x2="920" y2="403.54" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="408.54" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1000</text>
+<line x1="100" y1="331.39" x2="920" y2="331.39" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="336.39" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1100</text>
+<line x1="100" y1="259.24" x2="920" y2="259.24" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="264.24" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1200</text>
+<line x1="100" y1="187.09" x2="920" y2="187.09" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="192.09" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1300</text>
+<line x1="100" y1="114.94" x2="920" y2="114.94" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="119.94" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1400</text>
+<line x1="201.40" y1="58" x2="201.40" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="201.40" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">25</text>
+<line x1="311.61" y1="58" x2="311.61" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="311.61" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">50</text>
+<line x1="421.83" y1="58" x2="421.83" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="421.83" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">75</text>
+<line x1="532.04" y1="58" x2="532.04" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="532.04" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">100</text>
+<line x1="642.26" y1="58" x2="642.26" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="642.26" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">125</text>
+<line x1="752.47" y1="58" x2="752.47" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="752.47" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">150</text>
+<line x1="862.69" y1="58" x2="862.69" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="862.69" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">175</text>
+<line x1="100" y1="58" x2="100" y2="442" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="442" x2="920" y2="442" stroke="#333" stroke-width="1.5"/>
+<text x="510.0" y="498" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222">Active SMs</text>
+<text x="24" y="250.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 250.0)">ns</text>
+<polygon points="100.00,367.75 108.82,344.66 126.45,316.96 161.72,340.04 232.26,363.13 373.33,367.75 505.59,390.84 655.48,400.07 920.00,427.78 920.00,90.69 655.48,72.22 505.59,86.08 373.33,99.93 232.26,104.55 161.72,109.16 126.45,150.72 108.82,224.60 100.00,363.13" fill="#d62728" fill-opacity="0.16" stroke="none"/>
+<path d="M100.00,365.44 L108.82,273.09 L126.45,206.13 L161.72,192.28 L232.26,187.66 L373.33,201.52 L505.59,215.37 L655.48,215.37 L920.00,219.99" fill="none" stroke="#1f77b4" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="100.00" cy="365.44" r="3.5" fill="#1f77b4"/>
+<circle cx="108.82" cy="273.09" r="3.5" fill="#1f77b4"/>
+<circle cx="126.45" cy="206.13" r="3.5" fill="#1f77b4"/>
+<circle cx="161.72" cy="192.28" r="3.5" fill="#1f77b4"/>
+<circle cx="232.26" cy="187.66" r="3.5" fill="#1f77b4"/>
+<circle cx="373.33" cy="201.52" r="3.5" fill="#1f77b4"/>
+<circle cx="505.59" cy="215.37" r="3.5" fill="#1f77b4"/>
+<circle cx="655.48" cy="215.37" r="3.5" fill="#1f77b4"/>
+<circle cx="920.00" cy="219.99" r="3.5" fill="#1f77b4"/>
+<line x1="690" y1="74" x2="718" y2="74" stroke="#1f77b4" stroke-width="3"/>
+<text x="726" y="79" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">median</text>
+</svg>

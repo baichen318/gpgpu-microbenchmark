@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">Tensor-core throughput</text>
+<line x1="100" y1="424.00" x2="920" y2="424.00" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="429.00" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">0</text>
+<line x1="100" y1="333.72" x2="920" y2="333.72" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="338.72" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">500</text>
+<line x1="100" y1="243.44" x2="920" y2="243.44" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="248.44" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1000</text>
+<line x1="100" y1="153.16" x2="920" y2="153.16" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="158.16" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">1500</text>
+<line x1="100" y1="62.88" x2="920" y2="62.88" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="67.88" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">2000</text>
+<rect x="125.97" y="339.75" width="84.73" height="84.25" fill="#1f77b4" fill-opacity="0.88"/>
+<text x="168.33" y="331.75" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">467</text>
+<text x="168.33" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">FP16</text>
+<rect x="262.63" y="339.73" width="84.73" height="84.27" fill="#d62728" fill-opacity="0.88"/>
+<text x="305.00" y="331.73" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">467</text>
+<text x="305.00" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">BF16</text>
+<rect x="399.30" y="255.58" width="84.73" height="168.42" fill="#2ca02c" fill-opacity="0.88"/>
+<text x="441.67" y="247.58" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">933</text>
+<text x="441.67" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">FP8</text>
+<rect x="535.97" y="255.59" width="84.73" height="168.41" fill="#ff7f0e" fill-opacity="0.88"/>
+<text x="578.33" y="247.59" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">933</text>
+<text x="578.33" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">FP4 unscaled</text>
+<rect x="672.63" y="97.21" width="84.73" height="326.79" fill="#9467bd" fill-opacity="0.88"/>
+<text x="715.00" y="89.21" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">1810</text>
+<text x="715.00" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">MXFP4</text>
+<rect x="809.30" y="97.34" width="84.73" height="326.66" fill="#8c564b" fill-opacity="0.88"/>
+<text x="851.67" y="89.34" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">1809</text>
+<text x="851.67" y="450" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="12" fill="#333">NVFP4</text>
+<line x1="100" y1="58" x2="100" y2="424" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="424" x2="920" y2="424" stroke="#333" stroke-width="1.5"/>
+<text x="24" y="241.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 241.0)">TFLOPS</text>
+</svg>

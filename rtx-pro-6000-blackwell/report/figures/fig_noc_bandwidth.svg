@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="520" viewBox="0 0 960 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="480.0" y="32" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="20" font-weight="bold" fill="#222">NoC / L2 aggregate bandwidth scaling</text>
+<line x1="100" y1="431.26" x2="920" y2="431.26" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="436.26" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">0.0k</text>
+<line x1="100" y1="341.34" x2="920" y2="341.34" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="346.34" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">2.0k</text>
+<line x1="100" y1="251.42" x2="920" y2="251.42" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="256.42" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">4.0k</text>
+<line x1="100" y1="161.50" x2="920" y2="161.50" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="166.50" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">6.0k</text>
+<line x1="100" y1="71.58" x2="920" y2="71.58" stroke="#e6e6e6" stroke-width="1"/>
+<text x="88" y="76.58" text-anchor="end" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">8.0k</text>
+<line x1="205.24" y1="58" x2="205.24" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="205.24" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">25</text>
+<line x1="314.87" y1="58" x2="314.87" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="314.87" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">50</text>
+<line x1="424.49" y1="58" x2="424.49" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="424.49" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">75</text>
+<line x1="534.12" y1="58" x2="534.12" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="534.12" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">100</text>
+<line x1="643.74" y1="58" x2="643.74" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="643.74" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">125</text>
+<line x1="753.37" y1="58" x2="753.37" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="753.37" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">150</text>
+<line x1="862.99" y1="58" x2="862.99" y2="442" stroke="#ededed" stroke-width="1"/>
+<text x="862.99" y="466" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#333">175</text>
+<line x1="100" y1="58" x2="100" y2="442" stroke="#333" stroke-width="1.5"/>
+<line x1="100" y1="442" x2="920" y2="442" stroke="#333" stroke-width="1.5"/>
+<text x="510.0" y="498" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222">Active SMs</text>
+<text x="24" y="250.0" text-anchor="middle" font-family="Helvetica,Arial,sans-serif" font-size="15" fill="#222" transform="rotate(-90 24 250.0)">GB/s</text>
+<path d="M100.00,427.78 L104.39,424.29 L113.16,417.33 L130.70,403.44 L165.78,375.64 L235.94,320.65 L376.26,210.69 L507.81,116.15 L656.90,108.13 L920.00,72.22" fill="none" stroke="#1f77b4" stroke-width="2.4" stroke-linejoin="round"/>
+<circle cx="100.00" cy="427.78" r="3.5" fill="#1f77b4"/>
+<circle cx="104.39" cy="424.29" r="3.5" fill="#1f77b4"/>
+<circle cx="113.16" cy="417.33" r="3.5" fill="#1f77b4"/>
+<circle cx="130.70" cy="403.44" r="3.5" fill="#1f77b4"/>
+<circle cx="165.78" cy="375.64" r="3.5" fill="#1f77b4"/>
+<circle cx="235.94" cy="320.65" r="3.5" fill="#1f77b4"/>
+<circle cx="376.26" cy="210.69" r="3.5" fill="#1f77b4"/>
+<circle cx="507.81" cy="116.15" r="3.5" fill="#1f77b4"/>
+<circle cx="656.90" cy="108.13" r="3.5" fill="#1f77b4"/>
+<circle cx="920.00" cy="72.22" r="3.5" fill="#1f77b4"/>
+<line x1="690" y1="74" x2="718" y2="74" stroke="#1f77b4" stroke-width="3"/>
+<text x="726" y="79" font-family="Helvetica,Arial,sans-serif" font-size="13" fill="#222">aggregate</text>
+</svg>
