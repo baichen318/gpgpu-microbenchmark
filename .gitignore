@@ -14,3 +14,8 @@ sm2sm_*
 p2p-nvlink
 load
 lat.csv
+
+# Hopper test2 generated artifacts.
+/hopper-h20/test2/bin/
+/hopper-h20/test2/logs/
+/hopper-h20/test2/sm2sm
