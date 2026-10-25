@@ -15,4 +15,4 @@ The repo. collects microbenchmarks for GPGPU.
 
 ## Author
 
-- Chen Bai, eecbai@ust.hk
+- Chen Bai, cbai@fudan.edu.cn
